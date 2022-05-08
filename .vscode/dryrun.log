@@ -1,0 +1,7 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `e:/ITS/Semester 2/Pemrograman Lanjutan A/Persegi Panjang'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+
+make.exe: Leaving directory `e:/ITS/Semester 2/Pemrograman Lanjutan A/Persegi Panjang'
+ 
